@@ -1,5 +1,8 @@
 #include <iostream>
-
+#include <math.h>
+using namespace std;
 int main() {
-  std::cout << "Hello World!\n";
+  double a,b;
+  cin>>a>>b;
+  cout<<a+b<<endl;
 }
